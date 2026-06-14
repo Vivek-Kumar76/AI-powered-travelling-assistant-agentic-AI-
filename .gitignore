@@ -5,3 +5,4 @@ chapter_1.pdf
 main.py
 langgraph_parallel.py
 langgraph_sequential.py
+weather.py
